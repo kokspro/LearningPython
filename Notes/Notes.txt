@@ -1,0 +1,3 @@
+Text * is how many times you want to print.
+Example print("Hello World!" * 3)
+This will print Hello World! 3 times.
