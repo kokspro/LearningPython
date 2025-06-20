@@ -1,3 +1,33 @@
+Everything in Python is an object
+
 Text * is how many times you want to print.
 Example print("Hello World!" * 3)
 This will print Hello World! 3 times.
+
+Hash is comment out key
+
+Python Peps is style guides, P8 is usually considered the best
+
+
+variable[1] prints the char at the index of the string
+[-1] prints one from the back of the string
+[start_index:end_index], end index is not included but start index is
+[0:3] prints 3 characters, 0, 1, 2
+Can leave start or end blank and it will be infinite, [:] will print entire string copy
+
+backslash is escape character like most
+
+full = f"{first} {last}"
+This is how you do formatted strings
+Anything in between curly braces will be an expression and calculated at run times
+
+String Methods
+len() for length
+upper() to uppercase
+lower() to lowercase
+title() capitalizes first letter of every word, super cool
+
+
+
+
+
