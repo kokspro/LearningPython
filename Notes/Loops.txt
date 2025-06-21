@@ -1,0 +1,14 @@
+if number > 30:
+    things in the if loop
+
+elif is short for else if
+
+else is just else
+
+Ternary is different in Python
+message = "Eligible" if age >= 18 else "Not Eligible"
+print(message)
+
+if 18 <= age < 65: is chaining operators 
+
+

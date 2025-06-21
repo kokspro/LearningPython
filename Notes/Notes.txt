@@ -1,5 +1,8 @@
 Everything in Python is an object
 
+Python uses imports
+import math
+
 Text * is how many times you want to print.
 Example print("Hello World!" * 3)
 This will print Hello World! 3 times.
@@ -26,6 +29,34 @@ len() for length
 upper() to uppercase
 lower() to lowercase
 title() capitalizes first letter of every word, super cool
+strip() removes beginning and and end of string, lstrip and rstrip for just one
+find("string") and returns the index
+replace("p", "j") replaces all p with just
+print("string" in variable) is a boolean for if it is in the string
+not in works like in just opposite
+
+Numbers/Math
+use // to return integer division
+use / for floating point division
+round() rounds
+abs() absolute value
+
+Type Conversion
+input() to get input from the user
+Input from user always comes in the form of a string
+int() integer
+float() floating point
+bool() boolean
+str() string
+ord("letter") will give you the ascii Numbers
+
+Simple logical operators
+and is and
+or is or
+not is not
+
+
+
 
 
 
