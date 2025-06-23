@@ -55,6 +55,16 @@ and is and
 or is or
 not is not
 
+print() always ends in a new line by default in Python
+print("Hello", end=" ")
+print("World")
+These lines will take away the endline and replace it with a space
+Will print "Hello World"
+
+Iterables
+Such as range for the for loops
+Can also iterate over strings for x in "Python"
+
 
 
 
