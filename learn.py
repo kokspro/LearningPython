@@ -20,3 +20,13 @@
 
 # for x in "Oh wow, this is cool":
 #     print(x)
+
+# exercise
+counter = 0
+for x in range(1, 10):
+    if x % 2 == 0:
+        print(x)
+        counter += 1
+
+print(f"We have {counter} even numbers")
+

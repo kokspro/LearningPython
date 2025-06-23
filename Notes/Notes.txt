@@ -64,6 +64,9 @@ Will print "Hello World"
 Iterables
 Such as range for the for loops
 Can also iterate over strings for x in "Python"
+Can also use lists for x in [1, 2, 3, 4]
+
+
 
 
 
