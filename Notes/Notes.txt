@@ -66,6 +66,19 @@ Such as range for the for loops
 Can also iterate over strings for x in "Python"
 Can also use lists for x in [1, 2, 3, 4]
 
+#LISTS
+
+letters = ["a", "b", "c"]
+# can be lists of lists, booleans, etc.
+# lists of lists is a matrix
+zeros = [0] * 100 is a list of 100 0s
+can use + to combine lists
+Counting lists you can use the list function
+list(range(0, 100)), like normal range last is exclusive
+Printing a list of a string goes char by char
+
+
+
 
 
 

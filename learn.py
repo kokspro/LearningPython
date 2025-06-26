@@ -78,3 +78,17 @@
 # print(fizz_buzz(10))
 # print(fizz_buzz(15))
 # print(fizz_buzz(19))
+
+# PYTHON BUILD IN DATA STRUCTURES
+#LISTS
+
+# letters = ["a", "b", "c"]
+# can be lists of lists, booleans, etc.
+# lists of lists is a matrix
+# numbers = list(range(20))
+# print(numbers)
+# print(len(numbers))
+
+words = ["okay", "testing", "lists", "stuff"]
+print(words)
+print(len(words))
